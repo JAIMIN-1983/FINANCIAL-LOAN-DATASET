@@ -1,0 +1,29 @@
+Bank loan datasets questions
+
+1. Total loan applications
+2. MTD loan application
+3. PMTD loan application
+4. Total funded amount
+5. MTD total funded amount
+6. PMTD Total funded amount
+7. Total amount resell
+8. MTD Total amount resell
+9. PMTD Total amount resell
+10. Avg interest rate
+11. MTD Avg. interest
+12. PMTD Avg. interest rate
+13. Avg. DTI (doubt to income)
+14. MTD Avg. DTI
+15. PMTD Avg. DTI
+16. Good loan percentage
+17. Good loan applications
+18. Good loan funded amounts
+19. Good loan amount received
+20. Bad loan percentage
+21. Bad loan applications
+22. Bad loan funded amounts
+23. Bad loan amount received
+24. Loan status - Fully paid, charge off & current
+25. Terms (Tenure)
+26. Employee length
+27. Home ownership
